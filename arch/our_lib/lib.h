@@ -1,0 +1,6 @@
+#include "math.c"
+#include "other.c"
+#include "pairs.c"
+#include "preds.c"
+#include "strings.c"
+#include "vectors.c"
