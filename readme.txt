@@ -1,5 +1,18 @@
-Nimrod Morag 302223326
-Guy Alon 201486321
+
+
+usage:
+
+1. save source file as foo.scm
+2. run command $>scheme make.scm
+3. the output executable is called foo
+
+
+
+
+
+
+
+
 
 We assert that the work we submitted is 100% our own. We have not received any
 part from any other student in the class, nor have we give parts of it for use to others.
@@ -8,3 +21,5 @@ courses taught at other universities, various bits of code found on the internet
 We realize that should our code be found to contain code from other sources, that a
 formal case shall be opened against us with משמעת ועדת ,in pursuit of disciplinary
 action.
+
+
